@@ -1,0 +1,22 @@
+table, td, th, tr, caption {
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+tr th {
+    background-color: yellow;
+    text-align: center;
+}
+
+.text-1 {
+    width: 50px;
+    background-color: yellow;
+}
+.text-2 {
+    background-color: red;
+    color: white;
+}
+.text-3 {
+    background-color: red;
+
+}
